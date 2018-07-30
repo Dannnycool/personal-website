@@ -1,0 +1,27 @@
+html, body {
+    width: 100%;
+}
+
+.LebronJames{
+    background:black;
+}
+
+header {
+    color: blue;
+}
+.navigate {
+    background : white;
+    color: aqua;
+    display: flex;
+    height: 30%;
+    border-bottom:white double 1em;
+    border-top: white double 1em;
+}
+
+.navigate > h1 {
+    margin: auto;
+}
+
+a {
+    color: blue;
+}
